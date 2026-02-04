@@ -59,6 +59,7 @@ DigitalOcean has excluded this repository from their Hacktoberfest submission. W
 
 ## LEARN FULL-STACK WEB DEVELOPMENT
 If you're new to web development, starting with [codedamn's full-stack learning path](https://codedamn.com/learning-paths/fullstack) is the best way to begin your web developer journey. You will learn about HTML, CSS, JavaScript, React, Next.js, Node, MongoDB, Caching, and more! Multiple projects, exams, and hands-on exercises available in every course, with certificate of completions. [Start here](https://codedamn.com/learning-paths/fullstack)
+b,jhv
 
 ## THANK YOU
 
